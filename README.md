@@ -19,7 +19,7 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
 - Na tela de gastos, exibir totalizadores com os valores de entrada e saída. 
 
 ## **Requisitos técnicos:**
--  Utilizar linguagem Swift 5+ com UIKit;
+- Utilizar linguagem Swift 5+ com UIKit;
 - Utilizar chamadas às APIs disponíveis;
 - Respeitar os princípios do SOLID (Clean Code);
 - Aplicar Design Patterns, orientação a objetos e boas práticas de programação;
