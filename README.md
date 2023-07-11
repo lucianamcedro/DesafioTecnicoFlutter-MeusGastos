@@ -23,11 +23,11 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
 - Utilizar chamadas às APIs disponíveis;
 - Respeitar os princípios do SOLID (Clean Code);
 - Aplicar Design Patterns, orientação a objetos e boas práticas de programação;
-- Dsenvolver as interfaces em viewCode;
+- Desenvolver as interfaces em viewCode;
 - Seguir a arquitetura MVVM ou MVVM-C;
 - Implementar o login utilizando o Firebase;
-- Utilizar o framework nativo URLSession para realizar as chamadas de API;
-- Os testes unitários são opcionais, mas encorajados.
+- Usar o framework nativo URLSession para realizar as chamadas de API;
+- Os testes unitários são opcionais, porém recomendados.
 
 Utilize a [API](http://meusgastos.codandocommoa.com.br/swagger/ui/index#/Category/Category_GetCategoryById).
 
