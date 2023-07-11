@@ -3,6 +3,8 @@
 
 O objetivo deste teste é avaliar as habilidades do candidato em desenvolver um aplicativo para controle de gastos.
 
+Os protótipos de telas estão no repositório para desenvolvimento do layout. 
+
 O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor app possível visando a qualidade de código/projeto e a parte visual.
 
 ## **Requisitos de negócio:**
