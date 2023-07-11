@@ -23,7 +23,7 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
 - Utilizar chamadas às APIs disponíveis;
 - Respeitar os princípios do SOLID (Clean Code);
 - Aplicar Design Patterns, orientação a objetos e boas práticas de programação;
-- Utilizar viewCode para a construção das interfaces;
+- Dsenvolver as interfaces em viewCode;
 - Seguir a arquitetura MVVM ou MVVM-C;
 - Implementar o login utilizando o Firebase;
 - Utilizar o framework nativo URLSession para realizar as chamadas de API;
