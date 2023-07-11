@@ -44,5 +44,3 @@ elemento do vetor [“Entrada”, “Saida”] como String e no GET, a resposta 
 índice do vetor [“Entrada”, “Saida”] que virá como Int;
 - Ao salvar o lançamento, enviar o valor do CategoryId como Int e a categoria como
 nula. A categoria será obtida pela chamada /Api/Categorys/GetCategoryById.
-
- 
