@@ -16,6 +16,7 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
   -  Transporte
   -  Educação
 - O usuário poderá cadastrar entradas e saídas de gastos;
+  - Cadastrar no mínimo 2 valores, 1 entrada e 1 saída, para cada categoria. 
 - Possibilidade de exclusão e edição dos gastos e categorias cadastrados;
 - Tratamento de erros nas requisições da API;
 - Na tela de gastos, exibir totalizadores com a soma dos valores de entrada e saída. 
