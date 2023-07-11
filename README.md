@@ -29,7 +29,7 @@ O tempo estimado para a conclusão deste teste é de 2 semanas.
 - Utilizar o framework nativo URLSession para realizar as chamadas de API;
 - Os testes unitários são opcionais, mas encorajados.
 
-Utilize a [API] (http://meusgastos.codandocommoa.com.br/swagger/ui/index#/Category/Category_GetCategoryById).
+Utilize a [API](http://meusgastos.codandocommoa.com.br/swagger/ui/index#/Category/Category_GetCategoryById).
 
 ### Detalhes técnicos sobre a API:
 - A API é HTTP, não HTTPS; - Para salvar ou obter categorias, não precisará do EntryType, ele não precisa ser
