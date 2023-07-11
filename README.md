@@ -31,6 +31,8 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
 
 Utilize a seguinte [API](http://meusgastos.codandocommoa.com.br/swagger/ui/index#/Category/Category_GetCategoryById).
 
+ | Não envie a solução como anexo, suba os fontes para seu Github (ou outro repositório) e envie o link para o avaliador.
+ 
 ### Detalhes técnicos sobre a API:
 - A API é HTTP, não HTTPS;
 - Para salvar ou obter categorias, não precisará do EntryType, ele não precisa ser
@@ -43,4 +45,4 @@ elemento do vetor [“Entrada”, “Saida”] como String e no GET, a resposta 
 - Ao salvar o lançamento, enviar o valor do CategoryId como Int e a categoria como
 nula. A categoria será obtida pela chamada /Api/Categorys/GetCategoryById.
 
-  | Não envie a solução como anexo, suba os fontes para seu Github (ou outro repositório) e envie o link para o avaliador.
+ 
