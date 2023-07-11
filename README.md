@@ -3,15 +3,15 @@
 
 O objetivo deste teste é avaliar as habilidades do candidato em desenvolver um aplicativo para controle de gastos.
 
-O tempo estimado para a conclusão deste teste é de 2 semanas.
+O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor app possível visando a qualidade de código/projeto e a parte visual.
 
 ## **Requisitos de negócio:**
 - No primeiro acesso ao aplicativo, o usuário deverá fazer o registro;
 - Tratamento de erros no processo de login;
 - Cadastro de categorias de gastos, como:
   -  Moradia (aluguel)
-	-  Alimentação
-	-  Transporte
+  -  Alimentação
+  -  Transporte
   -  Educação
 - O usuário poderá cadastrar entradas e saídas de gastos;
 - Possibilidade de exclusão e edição dos gastos e categorias cadastrados;
