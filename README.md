@@ -19,7 +19,7 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
   - Cadastrar no mínimo 2 valores, 1 entrada e 1 saída, para cada categoria. 
 - Possibilidade de exclusão e edição dos gastos e categorias cadastrados;
 - Tratamento de erros nas requisições da API;
-- Na tela de gastos, exibir totalizadores com a soma dos valores de entrada e saída. 
+- Na tela de GastosInfo, exibir totalizadores com a soma dos valores de entrada e saída. 
 
 ## **Requisitos técnicos:**
 - Utilizar linguagem Swift 5+ com UIKit;
