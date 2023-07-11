@@ -16,7 +16,7 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
 - O usuário poderá cadastrar entradas e saídas de gastos;
 - Possibilidade de exclusão e edição dos gastos e categorias cadastrados;
 - Tratamento de erros nas requisições da API;
-- Na tela de gastos, exibir totalizadores com os valores de entrada e saída. 
+- Na tela de gastos, exibir totalizadores com a soma dos valores de entrada e saída. 
 
 ## **Requisitos técnicos:**
 - Utilizar linguagem Swift 5+ com UIKit;
@@ -29,10 +29,11 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
 - Usar o framework nativo URLSession para realizar as chamadas de API;
 - Os testes unitários são opcionais, porém recomendados.
 
-Utilize a [API](http://meusgastos.codandocommoa.com.br/swagger/ui/index#/Category/Category_GetCategoryById).
+Utilize a seguinte [API](http://meusgastos.codandocommoa.com.br/swagger/ui/index#/Category/Category_GetCategoryById).
 
 ### Detalhes técnicos sobre a API:
-- A API é HTTP, não HTTPS; - Para salvar ou obter categorias, não precisará do EntryType, ele não precisa ser
+- A API é HTTP, não HTTPS;
+- Para salvar ou obter categorias, não precisará do EntryType, ele não precisa ser
 enviado no HTTP Body e nem virá como response;
 - Nenhum item precisará de DataCriacao, DataAlteracao e Uid, mesmo que estejam
 na API;
@@ -41,3 +42,5 @@ elemento do vetor [“Entrada”, “Saida”] como String e no GET, a resposta 
 índice do vetor [“Entrada”, “Saida”] que virá como Int;
 - Ao salvar o lançamento, enviar o valor do CategoryId como Int e a categoria como
 nula. A categoria será obtida pela chamada /Api/Categorys/GetCategoryById.
+
+  | Não envie a solução como anexo, suba os fontes para seu Github (ou outro repositório) e envie o link para o avaliador.
