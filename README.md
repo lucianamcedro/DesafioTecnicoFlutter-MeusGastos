@@ -24,7 +24,8 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
 ## **Requisitos técnicos:**
 - Utilizar linguagem Swift 5+ com UIKit;
 - Utilizar chamadas às APIs disponíveis;
-- Respeitar os princípios do SOLID (Clean Code);
+- Respeitar os princípios do SOLID;
+- Boas práticas, CleanCode;
 - Aplicar Design Patterns, orientação a objetos e boas práticas de programação;
 - Desenvolver as interfaces em viewCode;
 - Seguir a arquitetura MVVM ou MVVM-C;
