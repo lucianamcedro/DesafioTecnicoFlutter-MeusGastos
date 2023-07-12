@@ -48,3 +48,19 @@ elemento do vetor [“Entrada”, “Saida”] como String e no GET, a resposta 
 índice do vetor [“Entrada”, “Saida”] que virá como Int;
 - Ao salvar o lançamento, enviar o valor do CategoryId como Int e a categoria como
 nula. A categoria será obtida pela chamada /Api/Categorys/GetCategoryById.
+
+## Login
+
+<img src="Login/1-Logar.png" width="200"/>  <img src="Login/2-Registrar.png" width="200"/>
+
+## Categorias
+
+<img src="Categorias/1-Categorias-Vazio.png" width="200"/>  <img src="Categorias/2-Categorias-Loading.png" width="200"/>  <img src="Categorias/3-Categorias.png" width="200"/>
+<br>
+<img src="Categorias/4-Adicionar.png" width="200"/>  <img src="Categorias/5-Editar.png" width="200"/>
+
+## Gastos
+
+<img src="Gastos/1-MeusGastos-Vazio.png" width="200"/>  <img src="Gastos/2-MeusGastos-Loading.png" width="200"/>  <img src="Gastos/3-Gastos.png" width="200"/>  <img src="Gastos/4-Lancamentos-ElementosdeTela.png" width="350"/>
+<br>
+<img src="Gastos/5-AdicionarLancamento.png" width="200"/>  <img src="Gastos/6-EditarLancamento.png" width="200"/>  <img src="Gastos/7-ExemplodePicker.png" width="200"/>
