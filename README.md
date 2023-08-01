@@ -1,5 +1,4 @@
-# DesafioTecnicoIOS-MeusGastos
-## Desafio tecnico de iOS - App Meus gastos
+# Desafio Tecnico Flutter - MeusGastos
 
 O objetivo deste teste é avaliar as habilidades do candidato em desenvolver um aplicativo para controle de gastos.
 
@@ -16,21 +15,22 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
   -  Transporte
   -  Educação
 - O usuário poderá cadastrar entradas e saídas de gastos;
-  - Cadastrar no mínimo 2 valores, 1 entrada e 1 saída, para cada categoria. 
+- Cadastrar no mínimo 2 valores, 1 entrada e 1 saída, para cada categoria. 
 - Possibilidade de exclusão e edição dos gastos e categorias cadastrados;
 - Tratamento de erros nas requisições da API;
 - Na tela de GastosInfo, exibir totalizadores com a soma dos valores de entrada e saída. 
 
 ## **Requisitos técnicos:**
-- Utilizar linguagem Swift 5+ com UIKit;
+- Utilizar linguagem Dart;
 - Utilizar chamadas às APIs disponíveis;
 - Respeitar os princípios do SOLID;
 - Boas práticas, CleanCode;
 - Aplicar Design Patterns, orientação a objetos e boas práticas de programação;
-- Desenvolver as interfaces em viewCode;
-- Seguir a arquitetura MVVM ou MVVM-C;
+- Seguir a arquitetura MVVM;
 - Implementar o login utilizando o Firebase;
-- Usar o framework nativo URLSession para realizar as chamadas de API;
+- Usar o package [HTTP](https://pub.dev/packages/http) para realizar as chamadas de API;
+- Usar o setState para gerenciamento de estado;
+- Utilizar rotas nomeadas;
 - Os testes unitários são opcionais, porém recomendados.
 
 Utilize a seguinte [API](http://meusgastos.codandocommoa.com.br/swagger/ui/index#/Category/Category_GetCategoryById).
