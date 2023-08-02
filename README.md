@@ -28,7 +28,7 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
 - Aplicar Design Patterns, orientação a objetos e boas práticas de programação;
 - Seguir a arquitetura MVVM;
 - Implementar o login utilizando o Firebase;
-- Usar o package [HTTP](https://pub.dev/packages/http) para realizar as chamadas de API;
+- Usar o package [HTTP](https://pub.dev/packages/http) ou [DIO](https://pub.dev/packages/dio) para realizar as chamadas de API;
 - Usar o setState para gerenciamento de estado;
 - Utilizar rotas nomeadas;
 - Os testes unitários são opcionais, porém recomendados.
