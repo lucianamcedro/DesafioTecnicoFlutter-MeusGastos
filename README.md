@@ -26,7 +26,7 @@ O tempo estimado para a conclusão deste teste é de 1 semana, entregar o melhor
 - Respeitar os princípios do SOLID;
 - Boas práticas, CleanCode;
 - Aplicar Design Patterns, orientação a objetos e boas práticas de programação;
-- Seguir a arquitetura MVVM;
+- Seguir a arquitetura Clean Architecture;
 - Implementar o login utilizando o Firebase;
 - Usar o package [HTTP](https://pub.dev/packages/http) ou [DIO](https://pub.dev/packages/dio) para realizar as chamadas de API;
 - Usar o setState para gerenciamento de estado;
